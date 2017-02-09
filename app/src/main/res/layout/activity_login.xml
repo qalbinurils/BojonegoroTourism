@@ -154,7 +154,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text=" have an account ?"
+                    android:text="Already have an account ?"
                     android:textAllCaps="false"
                     android:textAlignment="center"
                     android:textSize="6.5pt"
