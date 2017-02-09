@@ -83,7 +83,7 @@
                 android:layout_marginLeft="50dp"
                 android:hint="Password"
                 android:textSize="16dp"
-                android:imeActionId="@+id/login"
+                android:imeActionId="@+id/s_login"
                 android:imeActionLabel="@string/action_sign_in_short"
                 android:imeOptions="actionUnspecified"
                 android:inputType="textPassword"

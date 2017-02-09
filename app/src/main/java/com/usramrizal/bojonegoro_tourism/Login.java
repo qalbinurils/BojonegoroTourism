@@ -84,7 +84,7 @@ public class Login extends AppCompatActivity implements LoaderCallbacks<Cursor> 
             }
         });
 
-        signin = (TextView)findViewById(R.id.login);
+        signin = (TextView)findViewById(R.id.account_log);
 
 
         Button mEmailSignInButton = (Button) findViewById(R.id.email_sign_in_button);
